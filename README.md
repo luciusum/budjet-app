@@ -1,5 +1,5 @@
 # budget-app on Vue. 
-#So Hi!
+Hello
 
 ## Project setup
 ```
