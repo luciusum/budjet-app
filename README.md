@@ -1,4 +1,5 @@
-# budget-app on Vue. Hello World
+# budget-app on Vue. 
+#So Hi!
 
 ## Project setup
 ```
